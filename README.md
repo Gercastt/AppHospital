@@ -9,7 +9,7 @@ Creamos un Diagrama ERD con Pacientes, Turnos y Médicos.
 [![](Captura de pantalla (29).png)]()
 
 Luego creamos la base de datos.
-[![](BBDD.png)]()
+[![](BBDD.jpg)]()
 
 Teniendo en cuenta las historias de usuario, trabajamos con una matriz en excel.
 [![](Captura de pantalla (31).png)]()
