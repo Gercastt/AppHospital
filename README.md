@@ -30,6 +30,6 @@ Procedimos a testear los test cases en la base de datos utilizando los siguiente
 [![](Captura de pantalla (7).jpg)]()
 
 Una vez que ejecutamos todo y no hubo bugs, pasamos todas las pruebas en Cycle Summary y cerramos el Sprint para darlo por terminado.
-[![](Captura de pantalla (9).jpg)]()
+[![](Captura de pantalla (9).png)]()
 
 Espero les haya gustado el proyecto y gracias por la visita a mi perfil! :D 
