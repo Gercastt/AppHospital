@@ -6,10 +6,9 @@ Nuestro cliente, el Hospital Regional, nos planteó la necesidad de crear una ba
 Para cumplir con su requerimiento, se creó una BBDD que cumple con las necesidades del cliente y mejora la eficiencia, y organización del hospital. 
 
 MODALIDAD DE TRABAJO
-
-_Metodologías Agiles Marco Scrum
-_Jira Software
-_2 Sprint
+Metodologías Agiles Marco Scrum
+Jira Software
+2 Sprint
 
 Creamos un Diagrama ERD con Pacientes, Turnos y Médicos. 
 
