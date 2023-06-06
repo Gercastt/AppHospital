@@ -1,5 +1,3 @@
-# BBDDHospital
-
 [![](bbdd-hospital.svg)]()
 
 
@@ -21,43 +19,35 @@
 
 ***Creamos un Diagrama ERD con Pacientes, Turnos y Médicos.***
 
-
-
 [![](Capturadepantalla(29).png)]()
+---
 
-***Luego creamos la base de datos.***
-
-
+***_Luego creamos la base de datos.***
 
 [![](BBDD.jpg)]()
+---
 
-***Teniendo en cuenta las historias de usuario, trabajamos con una matriz en excel.***
-
-
+***_Teniendo en cuenta las historias de usuario, trabajamos con una matriz en excel.***
 
 [![](Capturadepantalla(31).png)]()
+---
 
-***En Jira, nos dividimos las tareas y subimos las HU.***
-
-
+***_En Jira, nos dividimos las tareas y subimos las HU.***
 
 [![](Backlog.jpg)]()
+---
 
-***Subimos nuestros casos de prueba en Jira.***
-
-
+***_Subimos nuestros casos de prueba en Jira.***
 
 [![](Backlog+testcas.jpg)]()
+---
 
-***Procedimos a testear los test cases en la base de datos utilizando los siguientes Script.***
-
-
+***_Procedimos a testear los test cases en la base de datos utilizando los siguientes Script.***
 
 [![](Capturadepantalla(7).png)]()
+---
 
-***Una vez que ejecutamos todo y no hubo bugs, pasamos todas las pruebas en Cycle Summary y cerramos el Sprint para darlo por terminado.***
-
-
+***_Una vez que ejecutamos todo y no hubo bugs, pasamos todas las pruebas en Cycle Summary y cerramos el Sprint para darlo por terminado.***
 
 [![](Capturadepantalla(9).png)]()
 _____________________________________________________________________
