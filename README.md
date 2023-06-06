@@ -20,7 +20,7 @@ Luego creamos la base de datos.
 
 Teniendo en cuenta las historias de usuario, trabajamos con una matriz en excel.
 
-[![](Captura de pantalla (31).jpg)]()
+[![](Capturadepantalla(31).png)]()
 
 En Jira, nos dividimos las tareas y subimos las HU.
 
@@ -28,13 +28,14 @@ En Jira, nos dividimos las tareas y subimos las HU.
 
 Subimos nuestros casos de prueba en Jira.
 
-[![](Backlog + test cas.jpg)]()
+[![](Backlog+testcas.jpg)]()
 
 Procedimos a testear los test cases en la base de datos utilizando los siguientes Script.
 
-[![](Captura de pantalla (7).jpg)]()
+[![](Capturadepantalla(7).png)]()
 
 Una vez que ejecutamos todo y no hubo bugs, pasamos todas las pruebas en Cycle Summary y cerramos el Sprint para darlo por terminado.
-[![](Captura de pantalla (9).png)]()
+
+[![](Capturadepantalla(9).png)]()
 
 Espero les haya gustado el proyecto y gracias por la visita a mi perfil! :D 
