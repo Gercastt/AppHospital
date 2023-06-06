@@ -12,7 +12,7 @@ MODALIDAD DE TRABAJO
 
 Creamos un Diagrama ERD con Pacientes, Turnos y Médicos. 
 
-[![](Captura de pantalla (29).png)]()
+[![](Capturadepantalla(29).png)]()
 
 Luego creamos la base de datos.
 
